@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstASP.NET Sample", "CodeFirstASP.NET Sample\CodeFirstASP.NET Sample.csproj", "{F0492408-243F-4134-B038-E78B8CDA9A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstASP.NET Sample.Tests", "CodeFirstASP.NET Sample.Tests\CodeFirstASP.NET Sample.Tests.csproj", "{8F58C7D3-41CE-47FD-AF72-C05FC82AF4F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0492408-243F-4134-B038-E78B8CDA9A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0492408-243F-4134-B038-E78B8CDA9A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0492408-243F-4134-B038-E78B8CDA9A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0492408-243F-4134-B038-E78B8CDA9A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F58C7D3-41CE-47FD-AF72-C05FC82AF4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F58C7D3-41CE-47FD-AF72-C05FC82AF4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F58C7D3-41CE-47FD-AF72-C05FC82AF4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F58C7D3-41CE-47FD-AF72-C05FC82AF4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
